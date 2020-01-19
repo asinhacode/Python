@@ -1,1 +1,11 @@
  -- Table Of Contents --
+
+1. Please Excuse My Dear Aunt Sally - precedence of operators
+1.b Floor Division : //
+
+2. exponents
+2.b type()
+2.c multiple arguments within print statement, separated by commas
+2.d accessing different methods of string type
+
+
